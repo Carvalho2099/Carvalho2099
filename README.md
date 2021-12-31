@@ -1,6 +1,6 @@
 ## Olá! Eu sou Felipe Carvalho 
 - 🔭 Hoje trabalho com bakcend .NET
-- 🌱 Estudando Python/Flask e Engenharia de Dados
+- 🌱 Estudando Python/Flask e iniciando em Data Science
 - 😄 Pronouns: ele/dele
 <hr>
 
