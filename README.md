@@ -1,5 +1,5 @@
-## Olá! Eu sou Felipe Carvalho 
-- 🔭 Hoje trabalho com bakcend .NET
+## Olá! Eu sou Felipe
+- 🔭 Hoje trabalho com bakcend .NET Core e Framework, SQL server e Azure Devops
 - 🌱 Estudando Python/Django, Webscraping e iniciando em Data Science
 - 😄 Pronouns: ele/dele
 <hr>
