@@ -1,6 +1,6 @@
 ## Olá! Eu sou Felipe
 - 🔭 Hoje trabalho com bakcend .NET Core e Framework, SQL server e Azure Devops
-- 🌱 Estudando Python/Django, Webscraping e iniciando em Data Science
+- 🌱 Estudando Python/Django, Webscraping e iniciando em Data Science e arriscando Java por diversão
 - 😄 Pronouns: ele/dele
 <hr>
 
