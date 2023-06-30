@@ -1,6 +1,7 @@
 ## Olá! Eu sou Felipe
-- 🔭 Hoje trabalho com bakcend .NET Core e Framework, SQL server e Azure Devops
-- 🌱 Estudando Python/Django, Webscraping e iniciando em Data Science e arriscando Java por diversão
+- 🔭 Hoje trabalho com frontend react
+- 🌱 Estudando atualmente React.js, Next.js, JavaScript, GraphQL, Jest e Testing Library.
+- 🌱 Futuramente estudando Node.JS, Elixir e Python.
 - 😄 Pronouns: ele/dele
 <hr>
 
