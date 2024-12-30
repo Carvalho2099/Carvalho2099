@@ -1,7 +1,6 @@
 ## Olá! Eu sou Felipe
-- 🔭 Hoje trabalho com frontend react
-- 🌱 Estudando atualmente React.js, Next.js, JavaScript, GraphQL, Jest e Testing Library.
-- 🌱 Futuramente estudando Node.JS, Elixir e Python.
+- 🔭 Hoje trabalho com backed node, python e .Net
+- 🌱 Estudando atualmente Golang.
 - 😄 Pronouns: ele/dele
 <hr>
 
